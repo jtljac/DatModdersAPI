@@ -1,2 +1,1 @@
-call gradlew.bat build
-pause
+call gradlew.bat wrapper --gradle-version 6.5.1
